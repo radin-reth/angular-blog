@@ -12,5 +12,5 @@
 //
 //= require jquery
 //= require jquery_ujs
-//= require underscore
-//= require angular
+//= require underscore-min
+//= require angular.min
